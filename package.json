@@ -1,0 +1,24 @@
+{
+  "name": "hire-scooters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watchAll",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachaelSmethills/Hire-Scooters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachaelSmethills/Hire-Scooters/issues"
+  },
+  "homepage": "https://github.com/RachaelSmethills/Hire-Scooters#readme",
+  "dependencies": {
+    "jest": "^26.5.2",
+    "nodemon": "^2.0.4"
+  }
+}
